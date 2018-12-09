@@ -1,0 +1,68 @@
+{
+	"alltype":[
+		{
+			"image": "img/ID.jpg",
+			"name" : "ID",
+			"tags" : "All Action Adventure Fantasy Shounen",
+			"lastestChapter" : "Vol: 29",
+			"popularity" : "10428",
+			"stats": "old"
+		},
+		{
+			"image": "img/BNS.jpg",
+			"name" : "Blood And Steel",
+			"tags" : "All Action Adventure Drama Historical Martial-Arts Seinen",
+			"lastestChapter" : "Vol: 15. Chap: 75",
+			"popularity" : "4347",
+			"stats": "old"
+		},
+		{
+			"image": "img/noblesse.jpg",
+			"name" : "Noblesse",
+			"tags" : "All Action Comedy Fantasy Manhwa Shounen Webtoon Full-Color OPC School Supernatural Vampires",
+			"lastestChapter" : "Chap. 541",
+			"popularity" : "57937",
+			"stats": "old"
+		},
+		{
+			"image": "img/SongMonarch.jpg",
+			"name" : "Song Of The Long March",
+			"tags" : "All Action Adventure Drama Manhwa Historical",
+			"lastestChapter" : "Vol: 11. Chap: 61",
+			"popularity" : "12698",
+			"stats": "old"
+		},
+		{
+			"image": "img/the_scholars_reincarnation.jpg",
+			"name" : "The Scholar's Reincarnation",
+			"tags" : "All Action Shounen Webtoon Full-Color Martial-Arts Reincarnation Wuxia",
+			"lastestChapter" : "Chap. 79",
+			"popularity" : "1194",
+			"stats": "new"
+		},
+		{
+			"image": "img/TheBreaker.jpg",
+			"name" : "The Breaker: New Waves",
+			"tags" : "All Action Drama Shounen Webtoon Gangs Martial-Arts",
+			"lastestChapter" : "Vol: 17. Chap: 201",
+			"popularity" : "60180",
+			"stats": "old"
+		},
+		{
+			"image": "img/thegamer.jpg",
+			"name" : "The Gamer",
+			"tags" : "All Action Comedy Sci-Fi Webtoon Cheats Dungeon Full-Color Magic RPG Superpowers",
+			"lastestChapter" : "Chap: 86",
+			"popularity" : "3939",
+			"stats": "old"
+		},
+			{
+			"image": "img/the-legendary-moonlight-sculptor.jpg",
+			"name" : "The Legendary Moonlight Sculptor",
+			"tags" : "All Action Adventure Comedy Webtoon Full-Color MMORPG OPC RPG VR",
+			"lastestChapter" : "Vol: 36. Chap. 390",
+			"popularity" : "1790",
+			"stats": "old"
+		}	
+	]
+}

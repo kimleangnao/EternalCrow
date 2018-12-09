@@ -1,0 +1,76 @@
+{
+	"hotmanga": [
+		{
+			"image":"img/FoodWar.jpg",
+			"name":"Food War",
+			"chapter":"Chap. 123",
+			"group":"1"
+		},
+		{
+			"image":"img/Haikyuu.jpg",
+			"name":"Haikyuu",
+			"chapter":"Chap. 78",
+			"group":"1"
+		},
+		{
+			"image":"img/HxH.jpg",
+			"name":"Hunter x Hunter",
+			"chapter":"Chap.254",
+			"group":"1"
+		},
+		{
+			"image":"img/mha.jpg",
+			"name":"My Hero Academia",
+			"chapter":"Chap. 198",
+			"group":"1"
+		},
+		{
+			"image":"img/Bleach.jpg",
+			"name":"Bleach",
+			"chapter":"Chap. Final",
+			"group":"2"
+		},
+		{
+			"image":"img/NGNL.jpg",
+			"name":"No Game No Life",
+			"chapter":"Chap. 78",
+			"group":"2"
+		},
+		{
+			"image":"img/OL.jpg",
+			"name":"Overlord",
+			"chapter":"Chap. 123",
+			"group":"2"
+		},
+		{
+			"image":"img/Onep.jpg",
+			"name":"One Piece",
+			"chapter":"Chap. 350",
+			"group":"2"
+		},
+		{
+			"image":"img/opm.jpg",
+			"name":"One Punch Man",
+			"chapter":"Chap. 100",
+			"group":"3"
+		},
+		{
+			"image":"img/shield.jpg",
+			"name":"The Rising Of Shield Hero",
+			"chapter":"Chap. 76",
+			"group":"3"
+		},
+		{
+			"image":"img/Shigatsu.jpg",
+			"name":"Your Lie In April",
+			"chapter":"Chap. 56",
+			"group":"3"
+		},
+		{
+			"image":"img/slim.jpg",
+			"name":"The Time I reincarnate as a slim",
+			"chapter":"Chap. 76",
+			"group":"3"
+		}	
+	]
+}

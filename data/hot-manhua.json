@@ -1,0 +1,76 @@
+{
+	"hotmanhua":[
+		{
+			"image":"img/DE.jpg",
+			"name":"Desolate Era",
+			"chapter":"Chap. 10",
+			"group":"1"
+		},
+		{
+			"image":"img/douluo-dalu.jpg",
+			"name":"Soul Land",
+			"chapter":"Chap. 20",
+			"group":"1"
+		},
+		{
+			"image":"img/doupo-cangqiong.jpg",
+			"name":"Battle Through The Heavens",
+			"chapter":"Chap. 29",
+			"group":"1"
+		},
+		{
+			"image":"img/EF.jpg",
+			"name":"Emo Faze",
+			"chapter":"Chap. 23",
+			"group":"1"
+		},
+		{
+			"image":"img/everlasting-god-of-sword.jpg",
+			"name":"Everlasting God Of Sword",
+			"chapter":"Chap. 55",
+			"group":"2"
+		},
+		{
+			"image":"img/god-of-martial-arts-.jpg",
+			"name":"God Of Martial Arts",
+			"chapter":"Chap. 56",
+			"group":"2"
+		},
+		{
+			"image":"img/i-shall-seal-the-heavens-.jpg",
+			"name":"I Shall Seal The Heavens",
+			"chapter":"Chap. 77",
+			"group":"2"
+		},
+		{
+			"image":"img/Panlong.jpg",
+			"name":"Panlong",
+			"chapter":"Chap. 166",
+			"group":"2"
+		},
+		{
+			"image":"img/theGreatRuler.jpg",
+			"name":"The Great Ruler",
+			"chapter":"Chap. 143",
+			"group":"3"
+		},
+		{
+			"image":"img/wu-dong-qian-kun.jpg",
+			"name":"Wu Dong Qian Kun",
+			"chapter":"Chap. 143",
+			"group":"3"
+		},
+		{
+			"image":"img/xian-ni-.jpg",
+			"name":"Renegade Immortal",
+			"chapter":"Chap. 76",
+			"group":"3"
+		},
+		{
+			"image":"img/zhu-xian-.jpg",
+			"name":"Celestial Destroyer",
+			"chapter":"Chap. 2",
+			"group":"3"
+		}
+	]
+}

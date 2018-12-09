@@ -1,0 +1,68 @@
+{
+	"alltype":[
+		{
+			"image": "img/OL.jpg",
+			"name" : "Overlord",
+			"tags" : "All Action Adventure Fantasy Demons Magic MMORPG OPC RPG VR Violence",
+			"lastestChapter" : "Vol: 10. Chap.: 40",
+			"popularity" : "2044",
+			"stats": "new"
+		},
+		{
+			"image": "img/slim.jpg",
+			"name" : "The Time I reincarnate as a slim",
+			"tags" : "All Action Adventure Fantasy Demons Magic Monsters OPC PIASW Political Reincarnation",
+			"lastestChapter" : "Vol: 9. Chap: 47",
+			"popularity" : "3663",
+			"stats": "old"
+		},
+		{
+			"image": "img/opm.jpg",
+			"name" : "One Punch Man",
+			"tags" : "All Action Comedy Sci-Fi Seinen Cyborgs Monsters OPC, Parody Satire Superheroes Superpowers",
+			"lastestChapter" : "Vol: 17. Chap: 99",
+			"popularity" : "9267",
+			"stats": "old"
+		},
+		{
+			"image": "img/mha.jpg",
+			"name" : "My Hero Academia",
+			"tags" : "All Action Comedy Fantasy Sci-Fi Shounen School Superheroes Superpowers",
+			"lastestChapter" : "Vol: 21. Chap: 209",
+			"popularity" : "6503",
+			"stats": "new"
+		},
+		{
+			"image": "img/Shigatsu.jpg",
+			"name" : "Your Lie In April",
+			"tags" : "All Drama Romance Shounen Illness Music Psychological School",
+			"lastestChapter" : "Vol: 11. Chap: 44",
+			"popularity" : "1204",
+			"stats": "old"
+		},
+		{
+			"image": "img/NGNL.jpg",
+			"name" : "No Game No Life",
+			"tags" : "All Adventure Ecchi Fantasy OPC Royalty Siblings",
+			"lastestChapter" : "Vol:2 . Chap: 11",
+			"popularity" : "1019",
+			"stats": "old"
+		},
+		{
+			"image": "img/HxH.jpg",
+			"name" : "Hunter x Hunter",
+			"tags" : "All Action Adventure Drama Fantasy Shounen Superpowers Violence",
+			"lastestChapter" : "Vol: 36. Chap. 390",
+			"popularity" : "5357",
+			"stats": "old"
+		},
+		{
+			"image": "img/Bleach.jpg",
+			"name" : "Bleach",
+			"tags" : "All Action Adventure Comedy Drama Shounen Ghost Supernatural",
+			"lastestChapter" : "Vol: 74. Chap. 686",
+			"popularity" : "217385",
+			"stats": "old"
+		}	
+	]
+}

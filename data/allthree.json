@@ -1,0 +1,196 @@
+{
+	"alltype": [
+		{
+			"image": "img/DE.jpg",
+			"name" : "Desolate Era",
+			"tags" : "All Action Adventure Comedy Fantasy Shounen Full-Color Martial-Arts Reincarnation Xianxia",
+			"lastestChapter" : "Chap: 51",
+			"popularity" : "559",
+			"stats": "new"
+		},
+		{
+			"image": "img/douluo-dalu.jpg",
+			"name" : "Soul Land",
+			"tags" : "All Action Fantasy Romance Full-Color Superpowers Xianxia",
+			"lastestChapter" : "Chap: 606",
+			"popularity" : "15851",
+			"stats": "old"
+		},
+		{
+			"image": "img/god-of-martial-arts-.jpg",
+			"name" : "God Of Martial Arts",
+			"tags" : "All Action Adventure Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 68",
+			"popularity" : "653",
+			"stats": "new"
+		},
+		{
+			"image": "img/i-shall-seal-the-heavens-.jpg",
+			"name" : "I Shall Seal The Heavens",
+			"tags" : "All ",
+			"lastestChapter" : "Chap: 79",
+			"popularity" : "211",
+			"stats": "new"
+		},
+		{
+			"image": "img/wu-dong-qian-kun.jpg",
+			"name" : "Wu Dong Qian Kun",
+			"tags" : "All Action Adventure Fantasy Harem Shounen Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 214",
+			"popularity" : "1230",
+			"stats": "old"
+		},
+		{
+			"image": "img/xian-ni-.jpg",
+			"name" : "Renegade Immortal",
+			"tags" : "All Action Shounen Cultivation Full-Color Martial-Arts Xianxia",
+			"lastestChapter" : "Chap: 84",
+			"popularity" : "515",
+			"stats": "old"
+		},
+		{
+			"image": "img/Panlong.jpg",
+			"name" : "Coiling Dragon",
+			"tags" : "All Action Adventure Fantasy Shounen Full-Color Xianxia",
+			"lastestChapter" : "Vol: 20 .Chap: 170",
+			"popularity" : "8802",
+			"stats": "old"
+		},
+		{
+			"image": "img/theGreatRuler.jpg",
+			"name" : "The Great Ruler",
+			"tags" : "All Action Adventure Shounen Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 84",
+			"popularity" : "1000",
+			"stats": "old"
+		},
+		{
+			"image": "img/ID.jpg",
+			"name" : "ID",
+			"tags" : "All Action Adventure Fantasy Shounen",
+			"lastestChapter" : "Vol: 29",
+			"popularity" : "10428",
+			"stats": "old"
+		},
+		{
+			"image": "img/BNS.jpg",
+			"name" : "Blood And Steel",
+			"tags" : "All Action Adventure Drama Historical Martial-Arts Seinen",
+			"lastestChapter" : "Vol: 15. Chap: 75",
+			"popularity" : "4347",
+			"stats": "old"
+		},
+		{
+			"image": "img/noblesse.jpg",
+			"name" : "Noblesse",
+			"tags" : "All Action Comedy Fantasy Manhwa Shounen Webtoon Full-Color OPC School Supernatural Vampires",
+			"lastestChapter" : "Chap. 541",
+			"popularity" : "57937",
+			"stats": "old"
+		},
+		{
+			"image": "img/SongMonarch.jpg",
+			"name" : "Song Of The Long March",
+			"tags" : "All Action Adventure Drama Manhwa Historical",
+			"lastestChapter" : "Vol: 11. Chap: 61",
+			"popularity" : "12698",
+			"stats": "old"
+		},
+		{
+			"image": "img/the_scholars_reincarnation.jpg",
+			"name" : "The Scholar's Reincarnation",
+			"tags" : "All Action Shounen Webtoon Full-Color Martial-Arts Reincarnation Wuxia",
+			"lastestChapter" : "Chap. 79",
+			"popularity" : "1194",
+			"stats": "new"
+		},
+		{
+			"image": "img/TheBreaker.jpg",
+			"name" : "The Breaker: New Waves",
+			"tags" : "All Action Drama Shounen Webtoon Gangs Martial-Arts",
+			"lastestChapter" : "Vol: 17. Chap: 201",
+			"popularity" : "60180",
+			"stats": "old"
+		},
+		{
+			"image": "img/thegamer.jpg",
+			"name" : "The Gamer",
+			"tags" : "All Action Comedy Sci-Fi Webtoon Cheats Dungeon Full-Color Magic RPG Superpowers",
+			"lastestChapter" : "Chap: 86",
+			"popularity" : "3939",
+			"stats": "old"
+		},
+			{
+			"image": "img/the-legendary-moonlight-sculptor.jpg",
+			"name" : "The Legendary Moonlight Sculptor",
+			"tags" : "All Action Adventure Comedy Webtoon Full-Color MMORPG OPC RPG VR",
+			"lastestChapter" : "Vol: 36. Chap. 390",
+			"popularity" : "1790",
+			"stats": "old"
+		},
+		{
+			"image": "img/OL.jpg",
+			"name" : "Overlord",
+			"tags" : "All Action Adventure Fantasy Demons Magic MMORPG OPC RPG VR Violence",
+			"lastestChapter" : "Vol: 10. Chap.: 40",
+			"popularity" : "2044",
+			"stats": "new"
+		},
+		{
+			"image": "img/slim.jpg",
+			"name" : "The Time I reincarnate as a slim",
+			"tags" : "All Action Adventure Fantasy Demons Magic Monsters OPC PIASW Political Reincarnation",
+			"lastestChapter" : "Vol: 9. Chap: 47",
+			"popularity" : "3663",
+			"stats": "old"
+		},
+		{
+			"image": "img/opm.jpg",
+			"name" : "One Punch Man",
+			"tags" : "All Action Comedy Sci-Fi Seinen Cyborgs Monsters OPC, Parody Satire Superheroes Superpowers",
+			"lastestChapter" : "Vol: 17. Chap: 99",
+			"popularity" : "9267",
+			"stats": "old"
+		},
+		{
+			"image": "img/mha.jpg",
+			"name" : "My Hero Academia",
+			"tags" : "All Action Comedy Fantasy Sci-Fi Shounen School Superheroes Superpowers",
+			"lastestChapter" : "Vol: 21. Chap: 209",
+			"popularity" : "6503",
+			"stats": "new"
+		},
+		{
+			"image": "img/Shigatsu.jpg",
+			"name" : "Your Lie In April",
+			"tags" : "All Drama Romance Shounen Illness Music Psychological School",
+			"lastestChapter" : "Vol: 11. Chap: 44",
+			"popularity" : "1204",
+			"stats": "old"
+		},
+		{
+			"image": "img/NGNL.jpg",
+			"name" : "No Game No Life",
+			"tags" : "All Adventure Ecchi Fantasy OPC Royalty Siblings",
+			"lastestChapter" : "Vol:2 . Chap: 11",
+			"popularity" : "1019",
+			"stats": "old"
+		},
+		{
+			"image": "img/HxH.jpg",
+			"name" : "Hunter x Hunter",
+			"tags" : "All Action Adventure Drama Fantasy Shounen Superpowers Violence",
+			"lastestChapter" : "Vol: 36. Chap. 390",
+			"popularity" : "5357",
+			"stats": "old"
+		},
+		{
+			"image": "img/Bleach.jpg",
+			"name" : "Bleach",
+			"tags" : "All Action Adventure Comedy Drama Shounen Ghost Supernatural",
+			"lastestChapter" : "Vol: 74. Chap. 686",
+			"popularity" : "217385",
+			"stats": "old"
+		}
+	]
+}

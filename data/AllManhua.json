@@ -1,0 +1,68 @@
+{
+	"alltype": [
+		{
+			"image": "img/DE.jpg",
+			"name" : "Desolate Era",
+			"tags" : "All Action Adventure Comedy Fantasy Shounen Full-Color Martial-Arts Reincarnation Xianxia",
+			"lastestChapter" : "Chap: 51",
+			"popularity" : "559",
+			"stats": "new"
+		},
+		{
+			"image": "img/douluo-dalu.jpg",
+			"name" : "Soul Land",
+			"tags" : "All Action Fantasy Romance Full-Color Superpowers Xianxia",
+			"lastestChapter" : "Chap: 606",
+			"popularity" : "15851",
+			"stats": "old"
+		},
+		{
+			"image": "img/god-of-martial-arts-.jpg",
+			"name" : "God Of Martial Arts",
+			"tags" : "All Action Adventure Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 68",
+			"popularity" : "653",
+			"stats": "new"
+		},
+		{
+			"image": "img/i-shall-seal-the-heavens-.jpg",
+			"name" : "I Shall Seal The Heavens",
+			"tags" : "All ",
+			"lastestChapter" : "Chap: 79",
+			"popularity" : "211",
+			"stats": "new"
+		},
+		{
+			"image": "img/wu-dong-qian-kun.jpg",
+			"name" : "Wu Dong Qian Kun",
+			"tags" : "All Action Adventure Fantasy Harem Shounen Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 214",
+			"popularity" : "1230",
+			"stats": "old"
+		},
+		{
+			"image": "img/xian-ni-.jpg",
+			"name" : "Renegade Immortal",
+			"tags" : "All Action Shounen Cultivation Full-Color Martial-Arts Xianxia",
+			"lastestChapter" : "Chap: 84",
+			"popularity" : "515",
+			"stats": "old"
+		},
+		{
+			"image": "img/Panlong.jpg",
+			"name" : "Coiling Dragon",
+			"tags" : "All Action Adventure Fantasy Shounen Full-Color Xianxia",
+			"lastestChapter" : "Vol: 20 .Chap: 170",
+			"popularity" : "8802",
+			"stats": "old"
+		},
+		{
+			"image": "img/theGreatRuler.jpg",
+			"name" : "The Great Ruler",
+			"tags" : "All Action Adventure Shounen Cultivation Full-Color Martial-Arts",
+			"lastestChapter" : "Chap: 84",
+			"popularity" : "1000",
+			"stats": "old"
+		}
+	]
+}

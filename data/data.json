@@ -1,0 +1,76 @@
+{
+	"update" : [
+		{
+			"image":"img/DE.jpg",
+			"title":"Desolate Era",
+			"chapter":"Chap. 90",
+			"group" : "1"
+		},
+		{
+			"image": "img/BNS.jpg",
+			"title": "Blood And Steel",
+			"chapter"  : "Chap. 200",
+			"group" : "1"
+		},
+		{
+			"image": "img/douluo-dalu.jpg",
+			"title": "Soul Land",
+			"chapter"  : "Chap. 155",
+			"group" : "1"
+		},
+		{
+			"image": "img/god-of-martial-arts-.jpg",
+			"title": "God Of Martial Arts",
+			"chapter"  : "Chap. 175",
+			"group" : "1"
+		},
+		{
+			"image": "img/SongMonarch.jpg",
+			"title": "Song Of The Long March",
+			"chapter"  : "Chap. 65",
+			"group" : "2"
+		},
+		{
+			"image": "img/wu-dong-qian-kun.jpg",
+			"title": "Wu Dong Qian Kun",
+			"chapter"  : "Chap. 95",
+			"group" : "2"
+		},
+		{
+			"image": "img/xian-ni-.jpg",
+			"title": "Renegade Immortal",
+			"chapter"  : "Chap. 155",
+			"group" : "2"
+		},
+		{
+			"image": "img/TheBreaker.jpg",
+			"title": "The Breaker",
+			"chapter"  : "Chap. 200",
+			"group" : "2"
+		},
+		{
+			"image": "img/OL.jpg",
+			"title": "Overlord",
+			"chapter"  : "Chap. 150",
+			"group" : "3"
+		},
+		{
+			"image": "img/NGNL.jpg",
+			"title": "No Game No Life",
+			"chapter"  : "Chap. 66",
+			"group" : "3"
+		},
+		{
+			"image": "img/opm.jpg",
+			"title": "One Punch Man",
+			"chapter"  : "Chap. 120",
+			"group" : "3"
+		},
+		{
+			"image": "img/slim.jpg",
+			"title": "The time I reincarnate as a slim",
+			"chapter"  : "Chap. 45",
+			"group" : "3"
+		}
+	]
+}

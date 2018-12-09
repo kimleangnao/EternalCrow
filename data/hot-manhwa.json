@@ -1,0 +1,76 @@
+{
+	"hotmanhwa": [
+		{
+			"image": "img/ANa.jpg",
+			"name": "Annarasumanara",
+			"chapter": "Chap. 23",
+			"group": "1"
+		},
+		{
+			"image"  : "img/BNS.jpg",
+			"name"   : "Blood And Steel",
+			"chapter": "Chap. 43",
+			"group"  : "1"
+		},
+		{
+			"image"  : "img/ID.jpg",
+			"name"   : "ID",
+			"chapter": "Chap. 87",
+			"group"  : "1"
+		},
+		{
+			"image"  : "img/Kubera.jpg",
+			"name"   : "Kubera",
+			"chapter": "Chap. 54",
+			"group"  : "1"
+		},
+		{
+			"image"  : "img/noblesse.jpg",
+			"name"   : "Noblesse",
+			"chapter": "Chap. 165",
+			"group"  : "2"
+		},
+		{
+			"image"  : "img/ROTL.jpg",
+			"name"   : "Ruler Of The Land",
+			"chapter": "Chap. 76",
+			"group"  : "2"
+		},
+		{
+			"image"  : "img/SongMonarch.jpg",
+			"name"   : "Song Of The Long March",
+			"chapter": "Chap. 65",
+			"group"  : "2"
+		},
+		{
+			"image"  : "img/the_scholars_reincarnation.jpg",
+			"name"   : "The Scholars Reincarnation",
+			"chapter": "Chap. 74",
+			"group"  : "2"
+		},
+		{
+			"image"  : "img/TheBreaker.jpg",
+			"name"   : "The Breaker",
+			"chapter": "Chap. 156",
+			"group"  : "3"
+		},
+		{
+			"image"  : "img/tower-of-god.jpg",
+			"name"   : "Tower Of God",
+			"chapter": "Chap. 265",
+			"group"  : "3"
+		},
+		{
+			"image"  : "img/Windbreaker.jpg",
+			"name"   : "Wind Breaker",
+			"chapter": "Chap. 76",
+			"group"  : "3"
+		},
+		{
+			"image"  : "img/Witchhunter.jpg",
+			"name"   : "Witch Hunter",
+			"chapter": "Chap. 65",
+			"group"  : "3"
+		}
+	]
+}
