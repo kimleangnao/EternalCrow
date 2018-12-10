@@ -20,7 +20,7 @@ nav {
 	margin: 0;
 	position: fixed;
 	background-color: #e7e7e7;
-	width: 100%;
+	width: 1920px;
 	box-shadow: 1px 1px 10px grey;
 }
 nav ul li {
@@ -188,3 +188,57 @@ input, input::placeholder {
 	display: none;
 }
 
+
+@media only screen and (max-width: 600px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 0%;
+	}
+	.third-body {
+		margin-left: 0%;
+	}
+	.fourth-body {
+		margin-left: 0%;
+	}
+}
+
+@media only screen and (max-width: 368px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 0%;
+	}
+	.third-body {
+		margin-left: 0%;
+	}
+	.fourth-body {
+		margin-left: 0%;
+	}
+}
+
+@media only screen and (max-width: 990px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 0%;
+	}
+	.third-body {
+		margin-left: 0%;
+	}
+	.fourth-body {
+		margin-left: 0%;
+	}
+}

@@ -20,7 +20,7 @@ nav {
 	margin: 0;
 	position: fixed;
 	background-color: #e7e7e7;
-	width: 100%;
+	width: 1920px;
 	box-shadow: 1px 1px 10px grey;
 }
 nav ul li {
@@ -43,8 +43,7 @@ nav ul li a:hover {
 	padding-bottom: 13px;
 	color: #1498d5;
 }
-.navManga{
-}
+
 
 #search {
 	 float: left;
@@ -192,4 +191,79 @@ input, input::placeholder {
 	height: 480px;
 	margin-left: 420px;
 	margin-top: 100px;
+}
+
+
+
+
+@media only screen and (max-width: 600px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 10%;
+	}
+	.third-body {
+		margin-left: 10%;
+	}
+	.fourth-body {
+		margin-left: 10%;
+	}
+	.fifth-body{
+		margin-left: 10%;
+	}
+	.sixth-body{
+		margin-left: 10%;
+	}
+}
+
+@media only screen and (max-width: 368px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 10%;
+	}
+	.third-body {
+		margin-left: 10%;
+	}
+	.fourth-body {
+		margin-left: 10%;
+	}
+	.fifth-body{
+		margin-left: 10%;
+	}
+	.sixth-body{
+		margin-left: 10%;
+	}
+}
+
+@media only screen and (max-width: 990px){
+	.logo{
+		margin-left: 0%;
+	}
+	#search {
+		margin-left:0px;
+	}
+	.second-body{
+		margin-left: 10%;
+	}
+	.third-body {
+		margin-left: 10%;
+	}
+	.fourth-body {
+		margin-left: 10%;
+	}
+	.fifth-body{
+		margin-left: 10%;
+	}
+	.sixth-body{
+		margin-left: 10%;
+	}
 }

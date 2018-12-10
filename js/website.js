@@ -28,7 +28,7 @@ xhr.onload = function() {
 };
 
 xhr.open('GET', 'data/data.json', true);
-xhr.send(null);
+xhr.send();
 
 
 //hot manga load
@@ -62,7 +62,7 @@ xhrmanga.onload = function() {
 
 
 xhrmanga.open('GET', 'data/hot-manga.json', true);
-xhrmanga.send(null);
+xhrmanga.send();
 
 
 
@@ -97,7 +97,7 @@ xhrmanhwa.onload = function(){
 };
 
 xhrmanhwa.open('GET', 'data/hot-manhwa.json', true);
-xhrmanhwa.send(null);
+xhrmanhwa.send();
 
 
 //load manhua
@@ -131,7 +131,7 @@ xhrmanhua.onload = function(){
 };
 
 xhrmanhua.open('GET', 'data/hot-manhua.json', true);
-xhrmanhua.send(null);
+xhrmanhua.send();
 
 //Backward and forward button for latest Update-All
 $(function(){
